@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+width: 100%;
+margin-top: 100px;
+}
+span{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(lightsalmon, rgb(241, 80, 51));
+    padding: 10px 40px;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+}
